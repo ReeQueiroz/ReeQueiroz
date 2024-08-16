@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá! Eu sou Renan Queiroz 👋
+  
+  Estudante tech fascinado pelas infinitas possibilidades que o desenvolvimento de software e o entendimento dos Dados proporcionam.
+
+    📖 Graduando em Ciências de Dados (2/4)
+    🐍 Estudando o ecossistema Python
+    
 
 <!--
 **ReeQueiroz/ReeQueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
